@@ -84,3 +84,16 @@ background-image: url("tom1.png") ;
     padding-top:40px;
     padding-bottom:20px;
 }
+.bot{
+    color:#EAF6F6;
+    font-size:0.75rem;
+}
+.footer-link{
+    color:#11999E;
+    font-family:Arial, Helvetica, sans-serif; 
+    margin: 10px 20px;
+    text-decoration:none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
