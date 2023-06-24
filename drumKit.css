@@ -79,4 +79,8 @@ background-image: url("tom1.png") ;
     margin: 10px;
     background-color: white;
   }
-  
+  .bottom-container{
+    background-color:#66BFBF;
+    padding-top:40px;
+    padding-bottom:20px;
+}
